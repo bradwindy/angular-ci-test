@@ -1,4 +1,4 @@
-# React.js CI and Testing Template
+# Angular CI and Testing Template
 ![Travis (.org)](https://img.shields.io/travis/bradwindy/angular-ci-test.svg)
 ![Code Climate coverage](https://img.shields.io/codeclimate/coverage/bradwindy/angular-ci-test.svg)
 ![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability-percentage/bradwindy/angular-ci-test.svg)
